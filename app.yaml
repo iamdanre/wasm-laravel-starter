@@ -1,0 +1,8 @@
+domains:
+- laravel-starter-iamdanre.wasmer.app
+kind: wasmer.io/App.v0
+name: iamdanre-wasm-laravel-starter
+owner: iamdanre
+package: .
+scaling:
+  mode: single_concurrency
